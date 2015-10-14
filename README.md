@@ -1,7 +1,7 @@
 # PTO-Days
 Days off 2015-2016
 
-<TABLE BORDER=3 CELLSPACING=3 CELLPADDING=3>
+<TABLE>
 <TR>
 <TD COLSPAN="7" ALIGN=center><B>October 2015</B></TD>
 </TR>
