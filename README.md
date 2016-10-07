@@ -1,14 +1,6 @@
 # PTO-Days
 Days off 2016
 
-<font color = 'yellow'>Yellow</font> = holidays
-<br/>
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-<font color = 'light red'>Red</font> = PTO days
-
 <TABLE>
 <TR><TD COLSPAN="7" ALIGN=center><B>October 2016</B></TD></TR>
 
@@ -29,11 +21,7 @@ Days off 2016
 
 <TR>
 <TD ALIGN=center>9</TD>
-<TD ALIGN=center>
-```diff
-+10
-```
-</TD><TD ALIGN=center>11</TD><TD ALIGN=center>12</TD><TD ALIGN=center>13</TD><TD ALIGN=center>14</TD>
+<TD ALIGN=center>10<br/>Hol.</TD><TD ALIGN=center>11</TD><TD ALIGN=center>12</TD><TD ALIGN=center>13</TD><TD ALIGN=center>14</TD>
 <TD ALIGN=center>15</TD>
 </TR>
 
@@ -82,7 +70,7 @@ Days off 2016
 
 <TR>
 <TD ALIGN=center>20</TD>
-<TD ALIGN=center>21</TD><TD ALIGN=center>22</TD><TD ALIGN=center>23</TD><TD ALIGN=center>24</TD><TD ALIGN=center>25</TD>
+<TD ALIGN=center>21</TD><TD ALIGN=center>22</TD><TD ALIGN=center>23</TD><TD ALIGN=center>24<br/>Hol.</TD><TD ALIGN=center>25<br/>Hol.</TD>
 <TD ALIGN=center>26</TD>
 </TR>
 
