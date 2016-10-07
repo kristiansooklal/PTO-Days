@@ -29,7 +29,11 @@ Days off 2016
 
 <TR>
 <TD ALIGN=center>9</TD>
-<TD ALIGN=center>10</TD><TD ALIGN=center>11</TD><TD ALIGN=center>12</TD><TD ALIGN=center>13</TD><TD ALIGN=center>14</TD>
+<TD ALIGN=center>
+```diff
++10
+```
+</TD><TD ALIGN=center>11</TD><TD ALIGN=center>12</TD><TD ALIGN=center>13</TD><TD ALIGN=center>14</TD>
 <TD ALIGN=center>15</TD>
 </TR>
 
