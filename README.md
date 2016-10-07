@@ -2,6 +2,11 @@
 Days off 2016
 
 <font color = 'yellow'>Yellow</font> = holidays
+<br/>
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 <font color = 'light red'>Red</font> = PTO days
 
 <TABLE>
