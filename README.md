@@ -1,6 +1,9 @@
 # PTO-Days
 Days off 2016
 
+<font color = 'yellow'>Yellow</font> = holidays
+<font color = 'light red'>Red</font> = PTO days
+
 <TABLE>
 <TR><TD COLSPAN="7" ALIGN=center><B>October 2016</B></TD></TR>
 
